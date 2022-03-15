@@ -31,4 +31,4 @@ For the data analysis, ridership trends were observed by different levels (i.e.,
 
 
 ## Communication
-For code, please find "code" in the repo and "slides.pdf" file for the Powerpoint slides.
+For code, please find "code" in the repo and "slide.pdf" file for the Powerpoint slides.
