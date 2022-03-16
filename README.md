@@ -1,5 +1,3 @@
-# Mask Force Placement at NYC Transportation during COVID-19
-
 ## Exploratory Data Analysis: MTA Mask Force Placement
 
 
